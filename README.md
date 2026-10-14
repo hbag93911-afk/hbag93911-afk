@@ -6,4 +6,4 @@
 <img width="1884" height="908" alt="image" src="https://github.com/user-attachments/assets/ec3b870f-dda2-442f-b29c-efcc0f07e410" />
 
 REPO 주소 : https://github.com/hbag93911-afk/SMARTEXERCISES
-실행 링크 : 
+실행 링크 : https://hbag93911-afk.github.io/SMARTEXERCISES/

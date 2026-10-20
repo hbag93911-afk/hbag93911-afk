@@ -7,3 +7,5 @@
 
 REPO 주소 : https://github.com/hbag93911-afk/SMARTEXERCISES
 실행 링크 : https://hbag93911-afk.github.io/SMARTEXERCISES/
+
+나의 프로젝트 : 

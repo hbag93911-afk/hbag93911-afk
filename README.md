@@ -8,4 +8,7 @@
 REPO 주소 : https://github.com/hbag93911-afk/SMARTEXERCISES
 실행 링크 : https://hbag93911-afk.github.io/SMARTEXERCISES/
 
-나의 프로젝트 : 
+나의 프로젝트 : https://github.com/hbag93911-afk/mbti
+
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/f4779f9b-7d08-43ad-8b30-8029286fb35c" />
+
